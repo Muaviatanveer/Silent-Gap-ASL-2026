@@ -47,16 +47,16 @@ To move beyond a simple image classifier, we built a **Two-Way Bridge Interface*
 
 ### 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-username/saras-bridge.git
-cd saras-bridge
+git clone https://github.com/Muaviatanveer/Silent-Gap-ASL-2026.git
+cd Silent-Gap-ASL-2026
 ```
 
 ### 2. Download the Model:
-Download `resnet50_final.pkl` from the link below and place it in the root directory:
+Download `nuclear_brain.pkl` from the link below and place it in the root directory:
 
-https://drive.google.com/file/d/17kvs7X_tb2tJCOA33VhvhE0AkqaZTw6o/view?usp=sharing
+https://drive.google.com/file/d/1LunC2DbvV7vsnG2HX3v8J_pQ43ankXNj/view?usp=sharing
 
-> **Note:** Make sure the downloaded file name remains `resnet50_final.pkl`.
+> **Note:** Make sure the downloaded file name remains `nuclear_brain.pkl`.
 
 ### 3. Install Dependencies:
 ```bash
